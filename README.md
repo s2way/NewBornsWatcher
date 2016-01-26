@@ -1,4 +1,4 @@
-# NewBornsWatcher
+# NewbornsWatcher
 Simple Android app for jenkins and monitoring integration
 
 Just create a config file on the GCM control panel, download it and copy it to app/ folder.

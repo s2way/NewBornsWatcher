@@ -15,7 +15,7 @@ Next, configure your jenkins or other application to fire a POST as follows:
       "to": "/topics/global",
       "data": {
           "message": {
-              "origin": "the push notification and card tile",
+              "origin": "the push notification and card title",
               "message": "the card subtitle/description"
           }
       }
